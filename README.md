@@ -9,13 +9,29 @@ ___
 ### Para executar os códigos de estudo da aula no [CodeSandBox](https://codesandbox.io/)
 
 
-- Faça o Login
+- Faça o [Login](https://codesandbox.io/signin?utm_source=landingpage)
+
 - Crie um novo SandBox
 
-<img src="/img/criar-sandbox.png" width="100%" height="100%" />
+<img src="/img/criar-sandbox.png" width="80%" height="80%" />
 
-- Importe o Repositório este repositório do GitHub
+- Importe o ambiente de estudos deste repositório do GitHub
 
-- npm install
-- npm init
-- npm install express body-parser mongoose
+<img src="/img/import-sandbox.png" width="80%" height="80%" />
+
+[link](https://github.com/sanchesrfl/backend-node-express-curso/tree/main/Pratica/CodeSandBox) para inserir como template. 
+
+- Faça um Fork do SandBox
+<img src="/img/fork-sandbox.png" width="80%" height="80%" />
+
+- Crie um novo terminal
+<img src="/img/novo-terminal.png" width="80%" height="80%" />
+
+### Primeiro: subindo um servidor Express com o Node!
+#### /Pratica/1.serverExpress 
+
+### Segundo: executando um CRUD com Node e Express!
+#### /Pratica/2.CRUD 
+
+### Terceiro: integrando uma API Rest ao MongoDB! 
+#### /Pratica/3.MongoDB 
