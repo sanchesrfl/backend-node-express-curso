@@ -6,10 +6,13 @@ Em parceria com [SENAI/SC](https://www.linkedin.com/school/senai-sc/) e [LAB365]
 autor: [rafaelsanches.tech](www.rafaelsanches.tech)
 ___
 
-### Para executar os exemplos da aula no [CodeSandBox](https://codesandbox.io/)
+### Para executar os códigos de estudo da aula no [CodeSandBox](https://codesandbox.io/)
 
 
 - Faça o Login
+- Crie um novo SandBox
+
+<img src="/img/criar-sandbox.png" width="100%" height="100%" />
 
 - Importe o Repositório este repositório do GitHub
 
