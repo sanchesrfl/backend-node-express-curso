@@ -3,7 +3,7 @@
 Ministrado originalmente para Alunos do [Instituto Pe. Vilson Groh (IVG)](https://www.linkedin.com/in/redeivg/). 
 Em parceria com [SENAI/SC](https://www.linkedin.com/school/senai-sc/) e [LAB365](https://www.linkedin.com/company/lab365/).
 
-autor: [rafaelsanches.tech](www.rafaelsanches.tech)
+autor: [rafaelsanches.tech](rafaelsanches.tech)
 ___
 
 ### Para executar os códigos de estudo da aula no [CodeSandBox](https://codesandbox.io/)
@@ -13,19 +13,19 @@ ___
 
 - Crie um novo SandBox
 
-<img src="/img/criar-sandbox.png" width="80%" height="80%" />
+<img src="/img/criar-sandbox.png" width="70%" height="70%" />
 
 - Importe o ambiente de estudos deste repositório do GitHub
 
-<img src="/img/import-sandbox.png" width="80%" height="80%" />
+<img src="/img/import-sandbox.png" width="70%" height="70%" />
 
 [link](https://github.com/sanchesrfl/backend-node-express-curso/tree/main/Pratica/CodeSandBox) para inserir como template. 
 
 - Faça um Fork do SandBox
-<img src="/img/fork-sandbox.png" width="80%" height="80%" />
+<img src="/img/fork-sandbox.png" width="70%" height="70%" />
 
 - Crie um novo terminal
-<img src="/img/novo-terminal.png" width="80%" height="80%" />
+<img src="/img/novo-terminal.png" width="70%" height="70%" />
 
 ### Primeiro: subindo um servidor Express com o Node!
 #### /Pratica/1.serverExpress 
