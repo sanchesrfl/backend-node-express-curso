@@ -4,12 +4,13 @@ const mongoose = require('mongoose');
 
 const app = express();
 const porta = 3000;
+const uri = "";
 
 app.use(bodyParser.urlencoded({ extended: true }));
 app.use(bodyParser.json());
 
 // Conectar ao MongoDB (substitua a URL pelo seu próprio URL do MongoDB)
-mongoose.connect('mongodb+srv://sanchesrfl:qtPOqPHKukgVpc9x@cluster0.fsaeup2.mongodb.net/arroz?retryWrites=true&w=majority', {
+mongoose.connect(uri, {
   useNewUrlParser: true,
   useUnifiedTopology: true,
 });
