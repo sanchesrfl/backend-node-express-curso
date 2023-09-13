@@ -1,4 +1,4 @@
-# Curso Introdutório Node Js + Express + REST APIs
+# Curso Introdutório Node Js + Express + MongoDB
 
 Ministrado originalmente para Alunos do [Instituto Pe. Vilson Groh (IVG)](https://www.linkedin.com/in/redeivg/). 
 Em parceria com [SENAI/SC](https://www.linkedin.com/school/senai-sc/) e [LAB365](https://www.linkedin.com/company/lab365/).
@@ -27,11 +27,36 @@ ___
 - Crie um novo terminal
 <img src="/img/novo-terminal.png" width="70%" height="70%" />
 
+___
+
 ### Primeiro: subindo um servidor Express com o Node!
-#### /Pratica/1.serverExpress 
+
+```
+cd 1.serverExpress 
+```
+```
+node app.js
+```
+___
+
 
 ### Segundo: executando um CRUD com Node e Express!
-#### /Pratica/2.CRUD 
 
-### Terceiro: integrando uma API Rest ao MongoDB! 
-#### /Pratica/3.MongoDB 
+```
+cd 2.CRUD
+```
+```
+node app.js
+```
+___
+
+### Terceiro: integrando uma API ao MongoDB!
+
+```
+cd 3.MongoDB
+```
+```
+node app.js
+```
+
+obs.: para este estudo checar [aula](/Teoria/4.MongoDB.md) sobre o MongoDB.
