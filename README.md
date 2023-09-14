@@ -15,7 +15,7 @@ Lista de Conteúdos:
     2. [Rest API + CRUD](/Pratica/CodeSandBox/2.RestAPICrud//)
     3. [MongoDB API](/Pratica/CodeSandBox/3.MongoDB/)
 
-- [Tutoriais]
+- [Tutoriais](/Tutorial/)
 
     1. [Configuração do Ambiente CodeSandBox](/Tutorial/CodeSandBox.md)
     2. [Configuração do Ambiente MongoDB](/Tutorial/MongoDB.md)

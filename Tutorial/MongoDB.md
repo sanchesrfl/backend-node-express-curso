@@ -70,7 +70,12 @@ obs.: se o seu ip ainda não estiver o ip listado, execute:
 
 ___
 
-3. Conectar ao mongo DB
+3. Criar nova base de dados e coleções
+[<<Tutorial>>](/Tutorial/MongoDB%20-create-collection.md)
+
+___
+
+4. Conectar ao mongo DB
 ___
 
 <p align="center" width="100%">
@@ -87,7 +92,7 @@ ___
 
 ___
 
-4. Insira sua string de conexão copiada no passo anterior na REST API
+5. Insira sua string de conexão copiada no passo anterior na REST API
 ___
 
 
