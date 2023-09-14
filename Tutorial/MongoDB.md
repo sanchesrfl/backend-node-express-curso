@@ -1,13 +1,25 @@
 ### Tutorial MongoDB
+
+___
+
 1. Criar nova conta gratuita
+
+___
+
 
 <img src="/.recursos/img/try.png" width="70%" height="70%" />
 
 <img src="/.recursos/img/registro.png" width="70%" height="70%" />
 
+___
+
 2. Login e configuração inicial
- 
+
+___
+
+
 <img src="/.recursos/img/login-mongo.png" width="70%" height="70%" />
+
 
 - crie uma nova organização
 
@@ -17,6 +29,7 @@
 
 <img src="/.recursos/img/criar-org-mongo.png" width="70%" height="70%" />
 
+
 - crie um novo projeto
 
 <img src="/.recursos/img/novo-projeto-mongo.png" width="70%" height="70%" />
@@ -24,6 +37,7 @@
 <img src="/.recursos/img/nomear-projeto-mongo.png" width="70%" height="70%" />
 
 <img src="/.recursos/img/criar-projeto-mongo.png" width="70%" height="70%" />
+
 
 - crie uma nova base de dados (cluster)
 
@@ -41,17 +55,26 @@ obs.: se o seu ip ainda não estiver o ip listado, execute:
 
 <img src="/.recursos/img/criar-cluster-mongo-6.png" width="70%" height="70%" />
 
+___
+
 3. Conectar ao mongo DB
+___
+
 
 <img src="/.recursos/img/conectar-db-mongo.png" width="70%" height="70%" />
 
 <img src="/.recursos/img/conectar-db-mongo-2.png" width="70%" height="70%" />
 
+
 - copie e salve a string de conexão
 
 <img src="/.recursos/img/conectar-db-mongo-3.png" width="70%" height="70%" />
 
+___
+
 4. Insira sua string de conexão copiada no passo anterior na REST API
+___
+
 
 - abra o arquivo 3.MongoDB/app.js
 
