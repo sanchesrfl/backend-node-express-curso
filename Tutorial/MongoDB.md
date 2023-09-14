@@ -5,9 +5,10 @@ ___
 1. Criar nova conta gratuita
 
 ___
+<p align="center" width="100%">
+    <img src="/.recursos/img/try.png" width="70%" height="70%" />
+</p>
 
-
-<img src="/.recursos/img/try.png" width="70%" height="70%" />
 
 <img src="/.recursos/img/registro.png" width="70%" height="70%" />
 
