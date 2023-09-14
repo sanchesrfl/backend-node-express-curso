@@ -1,6 +1,5 @@
-<p align="center" width="100%">
-<h2> Tutorial MongoDB </h2>
-</p>
+<center> Tutorial MongoDB </center>
+
 
 ___
 
