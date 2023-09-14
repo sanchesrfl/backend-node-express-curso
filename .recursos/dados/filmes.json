@@ -1,0 +1,47 @@
+[
+  {
+    "título": "A Paixão de Cristo",
+    "ano": 2004,
+    "gênero": ["Drama"],
+    "diretor": "Mel Gibson",
+    "atores": ["Jim Caviezel", "Monica Bellucci"],
+    "classificação": 7.2,
+    "enredo": "O filme retrata os eventos finais da vida de Jesus Cristo, incluindo sua crucificação, ressurreição e as mensagens de amor e perdão que ele transmitiu."
+  },
+  {
+    "título": "À Prova de Fogo",
+    "ano": 2008,
+    "gênero": ["Drama", "Romance"],
+    "diretor": "Alex Kendrick",
+    "atores": ["Kirk Cameron", "Erin Bethea"],
+    "classificação": 6.6,
+    "enredo": "Um bombeiro enfrenta dificuldades em seu casamento e começa a descobrir a importância do amor sacrificial e da fé em Deus para salvar seu relacionamento."
+  },
+  {
+    "título": "Milagres do Paraíso",
+    "ano": 2016,
+    "gênero": ["Drama"],
+    "diretor": "Patricia Riggen",
+    "atores": ["Jennifer Garner", "Kylie Rogers"],
+    "classificação": 7.1,
+    "enredo": "Baseado em uma história real, o filme segue uma mãe que busca desesperadamente uma cura para sua filha doente e encontra fé, esperança e amor de Deus no processo."
+  },
+  {
+    "título": "Em Seu Lugar",
+    "ano": 2004,
+    "gênero": ["Comédia", "Drama"],
+    "diretor": "Nancy Meyers",
+    "atores": ["Cameron Diaz", "Kate Winslet"],
+    "classificação": 6.9,
+    "enredo": "Duas mulheres trocam de casas durante as férias e, no processo, encontram amor, amizade e um novo sentido para a vida, com a ajuda do amor de Deus."
+  },
+  {
+    "título": "A Cabana",
+    "ano": 2017,
+    "gênero": ["Drama", "Fantasia"],
+    "diretor": "Stuart Hazeldine",
+    "atores": ["Sam Worthington", "Octavia Spencer"],
+    "classificação": 6.2,
+    "enredo": "Um homem atormentado por uma tragédia encontra-se em uma cabana isolada, onde ele faz encontros espirituais que o ajudam a entender o amor de Deus e sua relação com a fé."
+  }
+]

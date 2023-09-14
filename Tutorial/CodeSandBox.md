@@ -4,19 +4,19 @@
 
 2. Crie um novo SandBox
 
-<img src="/img/criar-sandbox.png" width="70%" height="70%" />
+<img src="/.recursos/img/criar-sandbox.png" width="70%" height="70%" />
 
 3. Importe o ambiente de estudos deste repositório do GitHub
 
-<img src="/img/import-sandbox.png" width="70%" height="70%" />
+<img src="/.recursos/img/import-sandbox.png" width="70%" height="70%" />
 
 [link](https://github.com/sanchesrfl/backend-node-express-curso/tree/main/Pratica/CodeSandBox) para inserir como template. 
 
 4. Faça um Fork do SandBox
-<img src="/img/fork-sandbox.png" width="70%" height="70%" />
+<img src="/.recursos/img/fork-sandbox.png" width="70%" height="70%" />
 
 5. Crie um novo terminal
-<img src="/img/novo-terminal.png" width="70%" height="70%" />
+<img src="/.recursos/img/novo-terminal.png" width="70%" height="70%" />
 
 #### Com o novo terminal já disponível:
 

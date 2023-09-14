@@ -4,7 +4,7 @@ const mongoose = require('mongoose');
 
 const app = express();
 const porta = 3000;
-const uri = "";
+const uri = "mongodb+srv://<seu-usuário>:<sua-senha>@<seu-cluster>.mongodb.net/<sua-base-de-dados>?retryWrites=true&w=majority";
 
 app.use(bodyParser.urlencoded({ extended: true }));
 app.use(bodyParser.json());
