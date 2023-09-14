@@ -71,7 +71,7 @@ obs.: se o seu ip ainda não estiver o ip listado, execute:
 ___
 
 3. Criar nova base de dados e coleções
-[<<Tutorial>>](/Tutorial/MongoDB%20-create-collection.md)
+[<<Tutorial>>](/Tutorial/MongoDB-create-collection.md)
 
 ___
 

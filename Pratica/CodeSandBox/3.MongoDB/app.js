@@ -9,7 +9,7 @@ const uri = "mongodb+srv://<seu-usuário>:<sua-senha>@<seu-cluster>.mongodb.net/
 app.use(bodyParser.urlencoded({ extended: true }));
 app.use(bodyParser.json());
 
-// Conectar ao MongoDB (substitua a URL pelo seu próprio URL do MongoDB)
+// Conectar ao MongoDB (substitua a URI pelo seu próprio URI do MongoDB)
 mongoose.connect(uri, {
   useNewUrlParser: true,
   useUnifiedTopology: true,
@@ -22,12 +22,12 @@ db.once('open', () => {
   console.log('Conectado ao MongoDB');
 });
 
-// Definir um modelo de livro
+// Definir um modelo de livro na base de dados MongoDB
 const Livro = mongoose.model('Livro', {
   titulo: String,
 });
 
-// Listar todos os livros
+// Listar todos os livros na base de dados
 app.get('/livros', async (req, res) => {
   try {
     const livros = await Livro.find({});
@@ -54,10 +54,11 @@ app.get('/livros/:id', async (req, res) => {
   }
 });
 
-// Criar um novo livro
+// Criar um novo livro na base de dados
 app.post('/livros', async (req, res) => {
   const { titulo } = req.body;
 
+  //trata possíveis erros de comunicação com o endpoint
   try {
     const novoLivro = new Livro({ titulo });
     const livroSalvo = await novoLivro.save();
@@ -72,6 +73,7 @@ app.put('/livros/:id', async (req, res) => {
   const idLivro = req.params.id;
   const tituloAtualizado = req.body.titulo;
 
+  //trata possíveis erros de comunicação com o endpoint
   try {
     const livro = await Livro.findById(idLivro);
 
@@ -92,6 +94,7 @@ app.put('/livros/:id', async (req, res) => {
 app.delete('/livros/:id', async (req, res) => {
   const idLivro = req.params.id;
 
+  //trata possíveis erros de comunicação com o endpoint
   try {
     const resultado = await Livro.deleteOne({ _id: idLivro });
 
@@ -105,6 +108,8 @@ app.delete('/livros/:id', async (req, res) => {
   }
 });
 
+
+//inicia o servidor
 app.listen(porta, () => {
   console.log(`O servidor está ouvindo na porta ${porta}`);
 });

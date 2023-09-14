@@ -69,6 +69,7 @@ app.delete('/livros/:id', (req, res) => {
   res.status(204).send();
 });
 
+//inicia o servidor
 app.listen(porta, () => {
   console.log(`O servidor está ouvindo na porta ${porta}`);
 });
