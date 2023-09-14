@@ -1,4 +1,6 @@
-### Tutorial MongoDB
+<p align="center" width="100%">
+<h2> Tutorial MongoDB </h2>
+</p>
 
 ___
 
@@ -12,6 +14,7 @@ ___
 <p align="center" width="100%">
 <img src="/.recursos/img/registro.png" width="70%" height="70%" />
 </p>
+
 ___
 
 2. Login e configuração inicial
