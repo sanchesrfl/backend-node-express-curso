@@ -82,6 +82,7 @@ ___
 <p align="center" width="100%">
 <img src="/.recursos/img/conectar-db-mongo-3.png" width="70%" height="70%" />
 </p>
+
 ___
 
 4. Insira sua string de conexão copiada no passo anterior na REST API
