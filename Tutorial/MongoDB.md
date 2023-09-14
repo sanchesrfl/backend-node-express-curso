@@ -97,4 +97,4 @@ ___
     <p align="center" width="100%">
     <img src="/.recursos/img/uri-mongo-node.png" width="70%" height="70%" />
     </p>
-    << obs.: perceba que sua string de conexão deverá conter os valores de 1 a 5 nas {chaves} preenchidos com os do seu projeto no mongo!. >>
+    << obs.: perceba que sua string de conexão deverá conter os valores de 1 a 4 nas {chaves} preenchidos com os do seu projeto no mongo!. >>
