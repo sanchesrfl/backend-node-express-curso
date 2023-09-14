@@ -13,9 +13,9 @@
 
 <img src="/.recursos/img/nova-org-mongo.png" width="70%" height="70%" />
 
-<img src="/.recursos/img/novo-org-mongo-2.png" width="70%" height="70%" />
+<img src="/.recursos/img/nova-org-mongo-2.png" width="70%" height="70%" />
 
-<img src="/.recursos/img/criar-org-mongo-2.png" width="70%" height="70%" />
+<img src="/.recursos/img/criar-org-mongo.png" width="70%" height="70%" />
 
 - crie um novo projeto
 
